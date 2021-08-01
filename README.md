@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a web developer
+* 🌱 I’m currently interested in Go, Rust, React.
 * 🎓 I'm a Computer Science student at Nagoya University.
 * 🌐 You can see some of my projects on <a href="https://horisho.netlify.app/" target="_blank">my portfolio(Japanese)</a>
 
