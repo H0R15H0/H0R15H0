@@ -8,6 +8,5 @@
 * 🎓 I'm a Computer Science student at Nagoya University.
 * 🌐 You can see some of my projects on <a href="https://horisho.netlify.app/" target="_blank">my portfolio(Japanese)</a>
 
-  <img align="center" alt="H0R15H0's github stats" src="https://github-readme-stats.vercel.app/api?username=H0R15H0&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="H0R15H0's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0R15H0&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
-</p>
+  <img align="center" alt="H0R15H0's github stats" src="https://github-readme-stats.vercel.app/api?username=H0R15H0&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="H0R15H0's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0R15H0&count_private=true&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
