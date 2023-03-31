@@ -4,7 +4,6 @@
 
 ## 📖 About me
 
-* 🎓 I'm a undergraduate student majoring computer science at Nagoya University.
 * 🌱 I’m currently interested in language processor, database system.
 <!-- * 🌐 You can see some of my projects on <a href="https://horisho.netlify.app/" target="_blank">my portfolio(Japanese)</a> -->
 
