@@ -5,6 +5,5 @@
 <!-- ## 📖 About me
 
 * 🌱 I’m currently interested in language processor, database system. -->
-<!-- * 🌐 You can see some of my projects on <a href="https://horisho.netlify.app/" target="_blank">my portfolio(Japanese)</a> -->
 
   <img align="center" alt="H0R15H0's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0R15H0&count_private=true&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
